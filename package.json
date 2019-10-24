@@ -43,7 +43,9 @@
     "moment-duration-format": "^2.2.2",
     "node-opus": "^0.2.7",
     "string-similarity": "^1.2.0",
-    "ytdl-core": "^0.18.7"
+    "ytdl-core": "^0.18.7",
+    "node.js": "^0.0.0",
+    "discord": "^0.8.2"
   },
   "devDependencies": {
     "eslint": "^4.19.1"
