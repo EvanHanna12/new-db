@@ -1,6 +1,6 @@
-exports.master = 'YOUR_TOKEN_ID_HERE';
-exports.token = 'YOUR_BOT_TOKEN_HERE';
-exports.ytkey = 'YOUR_YOUTUBE_KEY_HERE';
+exports.master = '466672305989222415';
+exports.token = 'NjAwODI5OTc0MzE5OTg4NzM3.XbGKhg.KD_KL8a7MscbhyluaaN4NZdJUiE';
+exports.ytkey = 'AIzaSyBHdVZL0ngJ66SUNakaYol1i3rRltTfmE4';
 
 /* IDs for bot's test server. This allows users from guilds to report and request features. */
 exports.masterServer = 'YOUR_MASTER_BOT_SERVER_ID_HERE';
