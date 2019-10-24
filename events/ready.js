@@ -10,5 +10,5 @@ module.exports = class extends Event {
     });
   }
 
-  run() { this.client.user.setActivity('db!help', { type: 'LISTENING' }); }
+  run() { this.client.user.setActivity('for db!help', { type: 'LISTENING' }); }
 };
