@@ -49,7 +49,7 @@ KlasaClient.defaultPermissionLevels
 
 const client = new KlasaClient({
   ownerID : master,
-  prefix: 'db!',
+  prefix: '+',
   cmdDeleting: true,
   cmdEditing: true,
   cmdLogging: true,
