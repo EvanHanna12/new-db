@@ -3,9 +3,9 @@ exports.token = 'NjAwODI5OTc0MzE5OTg4NzM3.XbGdXQ._xpcOe6_hpj-6mNIDsk4UrJt_4M';
 exports.ytkey = 'AIzaSyBHdVZL0ngJ66SUNakaYol1i3rRltTfmE4';
 
 /* IDs for bot's test server. This allows users from guilds to report and request features. */
-exports.masterServer = 'YOUR_MASTER_BOT_SERVER_ID_HERE';
-exports.reportChannel = 'YOUR_MASTER_BOT_SERVER_REPORT_CHANNEL_ID_HERE';
-exports.requestChannel = 'YOUR_MASTER_BOT_SERVER_REQUEST_CHANNEL_ID_HERE';
-exports.feedbackChannel = 'YOUR_MASTER_BOT_SERVER_FEEDBACK_CHANNEL_ID_HERE';
-exports.dmChannel = 'YOUR_MASTER_BOT_SERVER_DM_CHANNEL_ID_HERE';
+exports.masterServer = '600829750180577301';
+exports.reportChannel = '601579537603493898';
+exports.requestChannel = '601579537603493898';
+exports.feedbackChannel = '601579537603493898';
+exports.dmChannel = '601579537603493898';
 
