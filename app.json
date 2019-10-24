@@ -1,0 +1,28 @@
+{
+  "addons": [
+    "heroku-postgresql"
+  ],
+  "buildpacks": [
+    {
+      "url": "heroku/nodejs"
+    },
+    {
+      "url": "heroku/gradle"
+    }
+  ],
+  "description": "",
+  "env": {
+  },
+  "formation": {
+    "worker": {
+      "quantity": 1
+    },
+    "web": {
+      "quantity": 1
+    }
+  },
+  "name": "new-db",
+  "scripts": {
+  },
+  "stack": "heroku-18"
+}
