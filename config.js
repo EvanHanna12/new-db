@@ -1,5 +1,5 @@
 exports.master = '466672305989222415';
-exports.token = 'NjAwODI5OTc0MzE5OTg4NzM3.XbGdXQ._xpcOe6_hpj-6mNIDsk4UrJt_4M';
+exports.token = 'NTEzODgwMzEyNTI3MzIzMTQ2.Xu404A.bok7aE2pJrnPMlkVAO7kI67pSY0';
 exports.ytkey = 'AIzaSyBHdVZL0ngJ66SUNakaYol1i3rRltTfmE4';
 
 /* IDs for bot's test server. This allows users from guilds to report and request features. */
