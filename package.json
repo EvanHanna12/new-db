@@ -30,7 +30,7 @@
   "dependencies": {
     "azlyrics": "^1.0.2",
     "bufferutil": "^3.0.3",
-    "discord.js": "git+https://github.com/discordjs/discord.js.git#master",
+    "discord.js": "^12.2.0",
     "djs-collection": "0.0.6",
     "enmap": "^0.4.6",
     "ffmpeg-binaries": "^3.2.2",
